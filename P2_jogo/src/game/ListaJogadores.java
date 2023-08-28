@@ -1,5 +1,8 @@
 package game;
 
+/**
+ * @author Orlando junior
+ */
 public class ListaJogadores {
 	private String nome;
 	private int poderDeAtaque;
