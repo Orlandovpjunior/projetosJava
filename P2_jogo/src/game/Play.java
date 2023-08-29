@@ -1,6 +1,8 @@
 package game;
 import java.util.*;
-
+/**
+ * @autor Orlando junior
+ */
 public class Play {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
